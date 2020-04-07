@@ -31,6 +31,8 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 * [chart-global-temp](https://github.com/jasemagee/chart-global-temp/) - A line chart showing global temperature written using DragonRuby
 * [dragon-ruby-documenter](https://github.com/ediathome/dragon-ruby-documenter) - This small app dumps a basic DragonRuby documentation to a Markdown file
+* [bsg-scanner-radar-dradis](https://github.com/mroberti/dr_scanner) - A demo of how to implement a sweeping radar effect with ships updating as scan passes.
+
 
 ### Games
 
